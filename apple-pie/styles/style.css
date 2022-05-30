@@ -75,3 +75,11 @@ hr {
     width: 40em;
     height: 150px;
 }
+/* 
+ul li{
+    list-style-type: "-" ;
+} */
+
+.ingredients-image li {
+    list-style: "-";    
+}
